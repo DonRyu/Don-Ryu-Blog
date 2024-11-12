@@ -1,9 +1,9 @@
 /** @type {import("pliny/config").PlinyConfig } */
 const siteMetadata = {
-  title: 'Don Ryu Blog',
+  title: 'Don Ryu',
   author: 'Don Ryu',
   headerTitle: 'Don Ryu Blog',
-  description: 'A blog created with Next.js and Tailwind.css',
+  description: 'Hello I am Don.',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://tailwind-nextjs-starter-blog.vercel.app',
